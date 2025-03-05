@@ -29,5 +29,7 @@ Per eseguire il progetto, segui questi passaggi:
 1. **Clona il repository:**
 
    ```bash
-   git clone https://github.com/<tuo-username>/titanic-survival-prediction.git
+   git clone https://github.com/tuo-username/titanic-survival-prediction.git
    cd titanic-survival-prediction
+   pip install -r requirements.txt
+   ****
